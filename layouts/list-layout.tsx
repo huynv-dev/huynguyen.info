@@ -96,9 +96,9 @@ export function ListLayout({
         title={title}
         description="Sharing what I’m passionate about – from coding and tech to random thoughts."
         className="border-b border-gray-200 dark:border-gray-700"
-      >
-        <SearchArticles label="Search articles" onChange={(e) => setSearchValue(e.target.value)} />
-      </PageHeader>
+      />
+      {/* <SearchArticles label="Search articles" onChange={(e) => setSearchValue(e.target.value)} /> */}
+      {/* </PageHeader> */}
       {!filteredBlogPosts.length ? (
         <div className="py-10">No posts found.</div>
       ) : (

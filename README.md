@@ -1,12 +1,10 @@
-<h1 align="center">leohuynh.dev 🧑‍💻</h1>
+<h1 align="center">huynguyen.dev 🧑‍💻</h1>
 
 <div align="center">
 
-[![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://leohuynh.dev)
+[![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://huynguyen.dev)
 
 </div>
-
-![leohuynh.dev @ #250a4c5 on Oct.13](https://cdn.shopify.com/s/files/1/0669/0262/2504/files/pawelzmarlak-2024-10-12T14_51_02.315Z.png?v=1728744886)
 
 ## Motivation
 
@@ -40,11 +38,11 @@ Thanks for the free resources 🙏
 
 ## Star History
 
-<a href="https://star-history.com/#hta218/leohuynh.dev&Date">
+<a href="https://star-history.com/#hta218/huynguyen.dev&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hta218/leohuynh.dev&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hta218/leohuynh.dev&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hta218/leohuynh.dev&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hta218/huynguyen.dev&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hta218/huynguyen.dev&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hta218/huynguyen.dev&type=Date" />
  </picture>
 </a>
 

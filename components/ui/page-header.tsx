@@ -12,7 +12,12 @@ export function PageHeader({
   className?: string
 }) {
   return (
-    <div className={clsx('space-y-2 py-6 md:space-y-5', className)}>
+    <div
+      className={clsx(
+        'flex flex-col items-center space-y-4 py-6 text-center md:space-y-5',
+        className
+      )}
+    >
       <h1 className="text-3xl font-extrabold leading-9 tracking-tight sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
         {title}
       </h1>
