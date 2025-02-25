@@ -6,11 +6,11 @@ export const SITE_METADATA = {
     'A stream of thoughts and my programming journey—where I share knowledge, insights, and useful resources for the developer community.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.huynguyen.dev',
-  siteRepo: 'https://github.com/hta218/huynguyen.dev',
+  siteUrl: 'https://www.huynguyen.info',
+  siteRepo: 'https://github.com/hta218/huynguyen.info',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.jpg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
-  email: 'contact@huynguyen.dev',
+  email: 'contact@huynguyen.info',
   github: 'https://github.com/hta218',
   x: 'https://x.com/hta218_',
   facebook: 'https://facebook.com/hta218',
@@ -26,7 +26,7 @@ export const SITE_METADATA = {
   analytics: {
     umamiAnalytics: {
       websiteId: process.env.NEXT_UMAMI_ID,
-      shareUrl: 'https://analytics.huynguyen.dev/share/c9ErglxqzY5CQJ8g/huynguyen.dev',
+      shareUrl: 'https://analytics.huynguyen.info/share/c9ErglxqzY5CQJ8g/huynguyen.info',
     },
   },
   newsletter: {
@@ -56,7 +56,7 @@ export const SITE_METADATA = {
     },
   },
   support: {
-    buyMeACoffee: 'https://www.buymeacoffee.com/huynguyen.dev',
+    buyMeACoffee: 'https://www.buymeacoffee.com/huynguyen.info',
     paypal: 'https://paypal.me/hta218?country.x=VN&locale.x=en_US',
     kofi: 'https://ko-fi.com/hta218',
   },

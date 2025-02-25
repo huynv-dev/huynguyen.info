@@ -95,3 +95,26 @@ samp {
   opacity: 0;
   animation: fade-in 1s ease-in-out forwards;
 }
+
+@keyframes fly-in-loop {
+  0% {
+    transform: var(--initial-transform);
+    opacity: 0;
+  }
+  20% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+  80% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+  100% {
+    transform: var(--initial-transform);
+    opacity: 0;
+  }
+}
+
+.animate-fly {
+  animation: fly-in-loop 5s ease-in-out infinite;
+}

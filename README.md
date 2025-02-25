@@ -1,8 +1,8 @@
-<h1 align="center">huynguyen.dev 🧑‍💻</h1>
+<h1 align="center">huynguyen.info 🧑‍💻</h1>
 
 <div align="center">
 
-[![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://huynguyen.dev)
+[![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://huynguyen.info)
 
 </div>
 
@@ -38,11 +38,11 @@ Thanks for the free resources 🙏
 
 ## Star History
 
-<a href="https://star-history.com/#hta218/huynguyen.dev&Date">
+<a href="https://star-history.com/#hta218/huynguyen.info&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hta218/huynguyen.dev&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hta218/huynguyen.dev&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hta218/huynguyen.dev&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hta218/huynguyen.info&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hta218/huynguyen.info&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hta218/huynguyen.info&type=Date" />
  </picture>
 </a>
 

@@ -13,6 +13,7 @@ import { Logo } from './logo'
 import { MobileNav } from './mobile-nav'
 import { MoreLinks } from './more-links'
 import { ThemeSwitcher } from './theme-switcher'
+import LogoFlyIn from './logo-fly'
 
 let logged = false
 function logASCIItext() {
@@ -39,7 +40,9 @@ export function Header() {
       )}
     >
       <div className="flex items-center justify-between gap-3">
-        <Logo />
+        {/* <Logo /> */}
+        <LogoFlyIn />
+
         <div className="flex items-center gap-4">
           <div className="hidden gap-1.5 sm:flex">
             {HEADER_NAV_LINKS.map(({ title, href }) => {
