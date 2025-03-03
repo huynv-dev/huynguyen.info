@@ -1,7 +1,7 @@
 export const SITE_METADATA = {
   title: `HUY NGUYEN`,
   author: 'Huy Nguyen',
-  headerTitle: `HUY NGUYEN.INFO`,
+  headerTitle: `huymnguyen.info`,
   description:
     'A stream of thoughts and my programming journey—where I share knowledge, insights, and useful resources for the developer community.',
   language: 'en-us',
