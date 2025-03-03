@@ -15,7 +15,7 @@ export function LogoAndRepo() {
 
   return (
     <div className="flex items-center">
-      <Logo className="mr-4" />
+      {/* <Logo className="mr-4" /> */}
       <Link href={SITE_METADATA.siteRepo} rel="noreferrer">
         <GrowingUnderline
           data-umami-event="footer-view-source"

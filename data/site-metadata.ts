@@ -1,17 +1,17 @@
 export const SITE_METADATA = {
   title: `HUY NGUYEN`,
   author: 'Huy Nguyen',
-  headerTitle: `HUY NGUYEN`,
+  headerTitle: `HUY NGUYEN.INFO`,
   description:
     'A stream of thoughts and my programming journey—where I share knowledge, insights, and useful resources for the developer community.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.huynguyen.info',
-  siteRepo: 'https://github.com/hta218/huynguyen.info',
+  siteRepo: 'https://github.com/huynv-dev/huynguyen.info.git',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.jpg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
   email: 'contact@huynguyen.info',
-  github: 'https://github.com/hta218',
+  github: 'https://github.com/huynv-dev',
   x: 'https://x.com/hta218_',
   facebook: 'https://facebook.com/hta218',
   youtube: 'https://www.youtube.com/@hta218_',
