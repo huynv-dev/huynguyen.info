@@ -13,15 +13,13 @@ export const SITE_METADATA = {
   email: 'contact@huynguyen.info',
   github: 'https://github.com/huynv-dev',
   x: 'https://x.com/hta218_',
-  facebook: 'https://facebook.com/hta218',
+  facebook: 'https://www.facebook.com/huybka1996',
   youtube: 'https://www.youtube.com/@hta218_',
   linkedin: 'https://www.linkedin.com/in/hta218',
   threads: 'https://www.threads.net/hta218_',
-  instagram: 'https://www.instagram.com/hta218_',
+  instagram: 'https://www.instagram.com/bk.huy',
   locale: 'en-US',
   stickyNav: true,
-  goodreadsBookshelfUrl: 'https://www.goodreads.com/review/list/179720035-leo-huynh',
-  goodreadsFeedUrl: 'https://www.goodreads.com/review/list_rss/179720035',
   imdbRatingsList: 'https://www.imdb.com/user/ur154483197/ratings/?view=grid',
   analytics: {
     umamiAnalytics: {
